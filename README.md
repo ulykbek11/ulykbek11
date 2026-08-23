@@ -5,7 +5,7 @@
 <a href="https://www.linkedin.com/in/ulykbek-asylbek-1993513a7">
   <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=39FF14"/>
 </a>
-<img src="https://komarev.com/ghpvc/?username=ulykbek11&style=for-the-badge&color=000000&label=CONNECTIONS"/>
+<img src="https://komarev.com/ghpvc/?username=ulykbek11&style=for-the-badge&color=000000&label=PROFILE+VIEWS"/>
 
 </div>
 
@@ -107,9 +107,9 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=1&pause=100000&color=39FF14&background=00000000&center=true&vCenter=true&repeat=false&width=460&height=34&lines=root%40ulykbek11%3A~%24+contact+--linkedin" alt="contact" />
-
 <a href="https://www.linkedin.com/in/ulykbek-asylbek-1993513a7">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=1&pause=100000&color=39FF14&background=00000000&center=true&vCenter=true&repeat=false&width=460&height=34&lines=root%40ulykbek11%3A~%24+contact+--linkedin" alt="contact" />
+  <br/>
   <img src="https://img.shields.io/badge/Message%20me-000000?style=for-the-badge&logo=linkedin&logoColor=39FF14"/>
 </a>
 
