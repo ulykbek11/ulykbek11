@@ -11,7 +11,7 @@
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=1&pause=100000&color=39FF14&background=00000000&center=false&vCenter=true&repeat=false&width=420&height=45&lines=%24+cat+about.txt" alt="cat about.txt" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=1&pause=100000&color=39FF14&background=00000000&center=false&vCenter=true&repeat=false&width=420&height=45&lines=About+Me" alt="About Me" />
 
 ```bash
 > Full-stack developer building products end-to-end, solo
@@ -23,7 +23,7 @@
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=1&pause=100000&color=39FF14&background=00000000&center=false&vCenter=true&repeat=false&width=420&height=45&lines=%24+ls+tech_stack%2F" alt="ls tech_stack" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=1&pause=100000&color=39FF14&background=00000000&center=false&vCenter=true&repeat=false&width=420&height=45&lines=Tech+Stack" alt="Tech Stack" />
 
 <div align="center">
 
@@ -76,7 +76,7 @@
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=1&pause=100000&color=39FF14&background=00000000&center=false&vCenter=true&repeat=false&width=420&height=45&lines=%24+.%2Frun_stats.sh" alt="run stats" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=1&pause=100000&color=39FF14&background=00000000&center=false&vCenter=true&repeat=false&width=420&height=45&lines=GitHub+Stats" alt="GitHub Stats" />
 
 <div align="center">
 
@@ -95,8 +95,6 @@
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=1&pause=100000&color=39FF14&background=00000000&center=false&vCenter=true&repeat=false&width=480&height=45&lines=%24+python+contribution_snake.py" alt="contribution snake" />
-
 <div align="center">
 
 <img src="https://raw.githubusercontent.com/ulykbek11/ulykbek11/output/github-contribution-grid-snake-dark.svg" alt="snake animation"/>
@@ -107,7 +105,7 @@
 
 <div align="center">
 
-**root@ulykbek11:~$ contact --linkedin**
+**Let's Connect**
 
 <a href="https://www.linkedin.com/in/ulykbek-asylbek-1993513a7">
   <img src="https://img.shields.io/badge/Message%20me-000000?style=for-the-badge&logo=linkedin&logoColor=39FF14"/>
@@ -115,6 +113,6 @@
 
 <br/><br/>
 
-*> connection closed // see you in the commits*
+*Thanks for stopping by*
 
 </div>
