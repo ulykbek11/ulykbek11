@@ -27,7 +27,7 @@
 
 <div align="center">
 
-**Languages**
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=17&duration=1&pause=100000&color=39FF14&background=00000000&center=true&vCenter=true&repeat=false&width=220&height=30&lines=Languages" alt="Languages" />
 <br/>
 <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=39FF14"/>
 <img src="https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=39FF14"/>
@@ -37,7 +37,7 @@
 
 <br/><br/>
 
-**AI · ML · CV**
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=17&duration=1&pause=100000&color=39FF14&background=00000000&center=true&vCenter=true&repeat=false&width=220&height=30&lines=AI+%C2%B7+ML+%C2%B7+CV" alt="AI ML CV" />
 <br/>
 <img src="https://img.shields.io/badge/PyTorch-000000?style=for-the-badge&logo=pytorch&logoColor=39FF14"/>
 <img src="https://img.shields.io/badge/scikit--learn-000000?style=for-the-badge&logo=scikitlearn&logoColor=39FF14"/>
@@ -48,7 +48,7 @@
 
 <br/><br/>
 
-**Frontend**
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=17&duration=1&pause=100000&color=39FF14&background=00000000&center=true&vCenter=true&repeat=false&width=220&height=30&lines=Frontend" alt="Frontend" />
 <br/>
 <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=39FF14"/>
 <img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=39FF14"/>
@@ -57,7 +57,7 @@
 
 <br/><br/>
 
-**Backend · Infra**
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=17&duration=1&pause=100000&color=39FF14&background=00000000&center=true&vCenter=true&repeat=false&width=220&height=30&lines=Backend+%C2%B7+Infra" alt="Backend Infra" />
 <br/>
 <img src="https://img.shields.io/badge/FastAPI-000000?style=for-the-badge&logo=fastapi&logoColor=39FF14"/>
 <img src="https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=node.js&logoColor=39FF14"/>
@@ -66,7 +66,7 @@
 
 <br/><br/>
 
-**Tools**
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=17&duration=1&pause=100000&color=39FF14&background=00000000&center=true&vCenter=true&repeat=false&width=220&height=30&lines=Tools" alt="Tools" />
 <br/>
 <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=39FF14"/>
 <img src="https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=39FF14"/>
