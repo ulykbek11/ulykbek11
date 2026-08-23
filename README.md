@@ -9,24 +9,25 @@
 
 </div>
 
-<br/>
+<br/><br/>
 
-### $ cat about.txt
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=1&pause=100000&color=39FF14&background=00000000&center=false&vCenter=true&repeat=false&width=420&height=45&lines=%24+cat+about.txt" alt="cat about.txt" />
 
 ```bash
 > Full-stack developer building products end-to-end, solo
-> Deep in AI / ML / Computer Vision
+> Deep in AI / ML / Computer Vision — shipping real features, not just notebooks
 > Comfortable across the full stack: web, mobile, backend, ML pipelines
+> Currently building: Forte-BA-Assistant
 > Philosophy: ship first, polish later
 ```
 
-<br/>
+<br/><br/>
 
-### $ ls tech_stack/
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=1&pause=100000&color=39FF14&background=00000000&center=false&vCenter=true&repeat=false&width=420&height=45&lines=%24+ls+tech_stack%2F" alt="ls tech_stack" />
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=17&duration=1&pause=100000&color=39FF14&background=00000000&center=true&vCenter=true&repeat=false&width=220&height=30&lines=Languages" alt="Languages" />
+**Languages**
 <br/>
 <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=39FF14"/>
 <img src="https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=39FF14"/>
@@ -36,7 +37,7 @@
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=17&duration=1&pause=100000&color=39FF14&background=00000000&center=true&vCenter=true&repeat=false&width=220&height=30&lines=AI+%C2%B7+ML+%C2%B7+CV" alt="AI ML CV" />
+**AI · ML · CV**
 <br/>
 <img src="https://img.shields.io/badge/PyTorch-000000?style=for-the-badge&logo=pytorch&logoColor=39FF14"/>
 <img src="https://img.shields.io/badge/scikit--learn-000000?style=for-the-badge&logo=scikitlearn&logoColor=39FF14"/>
@@ -47,7 +48,7 @@
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=17&duration=1&pause=100000&color=39FF14&background=00000000&center=true&vCenter=true&repeat=false&width=220&height=30&lines=Frontend" alt="Frontend" />
+**Frontend**
 <br/>
 <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=39FF14"/>
 <img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=39FF14"/>
@@ -56,7 +57,7 @@
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=17&duration=1&pause=100000&color=39FF14&background=00000000&center=true&vCenter=true&repeat=false&width=220&height=30&lines=Backend+%C2%B7+Infra" alt="Backend Infra" />
+**Backend · Infra**
 <br/>
 <img src="https://img.shields.io/badge/FastAPI-000000?style=for-the-badge&logo=fastapi&logoColor=39FF14"/>
 <img src="https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=node.js&logoColor=39FF14"/>
@@ -65,7 +66,7 @@
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=17&duration=1&pause=100000&color=39FF14&background=00000000&center=true&vCenter=true&repeat=false&width=220&height=30&lines=Tools" alt="Tools" />
+**Tools**
 <br/>
 <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=39FF14"/>
 <img src="https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=39FF14"/>
@@ -73,9 +74,9 @@
 
 </div>
 
-<br/>
+<br/><br/>
 
-### $ ./run_stats.sh
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=1&pause=100000&color=39FF14&background=00000000&center=false&vCenter=true&repeat=false&width=420&height=45&lines=%24+.%2Frun_stats.sh" alt="run stats" />
 
 <div align="center">
 
@@ -92,9 +93,9 @@
 
 </div>
 
-<br/>
+<br/><br/>
 
-### $ python contribution_snake.py
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=1&pause=100000&color=39FF14&background=00000000&center=false&vCenter=true&repeat=false&width=480&height=45&lines=%24+python+contribution_snake.py" alt="contribution snake" />
 
 <div align="center">
 
