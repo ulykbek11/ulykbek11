@@ -11,23 +11,22 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=1&pause=100000&color=39FF14&background=00000000&center=false&vCenter=true&repeat=false&width=400&height=40&lines=%24+cat+about.txt" alt="cat about.txt" />
+### `$ cat about.txt`
 
 ```bash
 > Full-stack developer building products end-to-end, solo
-> Deep in AI / ML / Computer Vision — shipping real features, not just notebooks
+> Deep in AI / ML / Computer Vision 
 > Comfortable across the full stack: web, mobile, backend, ML pipelines
-> Currently building: Forte-BA-Assistant
 > Philosophy: ship first, polish later
 ```
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=1&pause=100000&color=39FF14&background=00000000&center=false&vCenter=true&repeat=false&width=400&height=40&lines=%24+ls+tech_stack%2F" alt="ls tech_stack" />
+### `$ ls tech_stack/`
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=15&duration=1&pause=100000&color=39FF14&background=00000000&center=true&vCenter=true&repeat=false&width=260&height=26&lines=%2F%2F+languages" alt="languages" />
+**Languages**
 <br/>
 <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=39FF14"/>
 <img src="https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=39FF14"/>
@@ -37,7 +36,7 @@
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=15&duration=1&pause=100000&color=39FF14&background=00000000&center=true&vCenter=true&repeat=false&width=260&height=26&lines=%2F%2F+ai+%C2%B7+ml+%C2%B7+cv" alt="ai ml cv" />
+**AI · ML · CV**
 <br/>
 <img src="https://img.shields.io/badge/PyTorch-000000?style=for-the-badge&logo=pytorch&logoColor=39FF14"/>
 <img src="https://img.shields.io/badge/scikit--learn-000000?style=for-the-badge&logo=scikitlearn&logoColor=39FF14"/>
@@ -48,7 +47,7 @@
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=15&duration=1&pause=100000&color=39FF14&background=00000000&center=true&vCenter=true&repeat=false&width=260&height=26&lines=%2F%2F+frontend" alt="frontend" />
+**Frontend**
 <br/>
 <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=39FF14"/>
 <img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=39FF14"/>
@@ -57,7 +56,7 @@
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=15&duration=1&pause=100000&color=39FF14&background=00000000&center=true&vCenter=true&repeat=false&width=260&height=26&lines=%2F%2F+backend+%C2%B7+infra" alt="backend infra" />
+**Backend · Infra**
 <br/>
 <img src="https://img.shields.io/badge/FastAPI-000000?style=for-the-badge&logo=fastapi&logoColor=39FF14"/>
 <img src="https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=node.js&logoColor=39FF14"/>
@@ -66,7 +65,7 @@
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=15&duration=1&pause=100000&color=39FF14&background=00000000&center=true&vCenter=true&repeat=false&width=260&height=26&lines=%2F%2F+tools" alt="tools" />
+**Tools**
 <br/>
 <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=39FF14"/>
 <img src="https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=39FF14"/>
@@ -76,7 +75,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=1&pause=100000&color=39FF14&background=00000000&center=false&vCenter=true&repeat=false&width=400&height=40&lines=%24+.%2Frun_stats.sh" alt="run stats" />
+### `$ ./run_stats.sh`
 
 <div align="center">
 
@@ -95,7 +94,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=1&pause=100000&color=39FF14&background=00000000&center=false&vCenter=true&repeat=false&width=460&height=40&lines=%24+python+contribution_snake.py" alt="contribution snake" />
+### `$ python contribution_snake.py`
 
 <div align="center">
 
@@ -107,14 +106,14 @@
 
 <div align="center">
 
+**`root@ulykbek11:~$ contact --linkedin`**
+
 <a href="https://www.linkedin.com/in/ulykbek-asylbek-1993513a7">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=1&pause=100000&color=39FF14&background=00000000&center=true&vCenter=true&repeat=false&width=460&height=34&lines=root%40ulykbek11%3A~%24+contact+--linkedin" alt="contact" />
-  <br/>
   <img src="https://img.shields.io/badge/Message%20me-000000?style=for-the-badge&logo=linkedin&logoColor=39FF14"/>
 </a>
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=14&duration=1&pause=100000&color=39FF14&background=00000000&center=true&vCenter=true&repeat=false&width=460&height=26&lines=%3E+connection+closed+%2F%2F+see+you+in+the+commits" alt="footer" />
+*`> connection closed // see you in the commits`*
 
 </div>
