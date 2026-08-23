@@ -80,16 +80,12 @@
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=ulykbek11&show_icons=true&hide_border=true&bg_color=000000&title_color=39FF14&icon_color=39FF14&text_color=39FF14&count_private=true"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ulykbek11&layout=compact&hide_border=true&bg_color=000000&title_color=39FF14&text_color=39FF14"/>
+<img height="165" src="https://raw.githubusercontent.com/ulykbek11/github-stats/master/generated/overview.svg"/>
+<img height="165" src="https://raw.githubusercontent.com/ulykbek11/github-stats/master/generated/languages.svg"/>
 
 <br/>
 
 <img src="https://streak-stats.demolab.com?user=ulykbek11&hide_border=true&background=000000&ring=39FF14&fire=39FF14&currStreakLabel=39FF14&sideLabels=39FF14&currStreakNum=39FF14&sideNums=39FF14&dates=147a1f"/>
-
-<br/><br/>
-
-<img src="https://github-profile-trophy-liard-delta.vercel.app/?username=ulykbek11&theme=matrix&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8"/>
 
 </div>
 
