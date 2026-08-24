@@ -80,8 +80,8 @@
 
 <div align="center">
 
-<img height="165" src="https://raw.githubusercontent.com/ulykbek11/github-stats/generated/overview.svg"/>
-<img height="165" src="https://raw.githubusercontent.com/ulykbek11/github-stats/generated/languages.svg"/>
+<img height="165" src="https://raw.githubusercontent.com/ulykbek11/github-stats/generated/overview.svg#gh-dark-mode-only"/>
+<img height="165" src="https://raw.githubusercontent.com/ulykbek11/github-stats/generated/languages.svg#gh-dark-mode-only"/>
 
 <br/>
 
