@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=2800&pause=700&color=39FF14&background=00000000&center=true&vCenter=true&multiline=true&repeat=true&width=750&height=110&lines=%3E+Full-stack+developer+%7C+AI+%2F+ML+%2F+CV;%3E+Python+%2B+TypeScript+%2B+FastAPI+%2B+React+Native;%3E+Building+products+end-to-end%2C+solo;%3E_" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=2800&pause=700&color=39FF14&background=00000000&center=true&vCenter=true&multiline=true&repeat=true&width=750&height=140&lines=%3E+Ulykbek+Asylbek+%7C+16yo+founder+from+Kazakhstan;%3E+900%2B+users+%7C+~%24500+revenue+%7C+5+shipped+products;%3E+AI+%2F+ML+%2F+CV+%7C+Full-stack+%7C+Mobile;%3E_" alt="Typing SVG" />
 
 <a href="https://www.linkedin.com/in/ulykbek-asylbek-1993513a7">
   <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=39FF14"/>
@@ -17,9 +17,24 @@
 > Full-stack developer building products end-to-end, solo
 > Deep in AI / ML / Computer Vision — shipping real features, not just notebooks
 > Comfortable across the full stack: web, mobile, backend, ML pipelines
-> Currently building: Forte-BA-Assistant
+> Currently building: Fitelo, Fresco, Draftly, EduPath
 > Philosophy: ship first, polish later
 ```
+
+<br/><br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=1&pause=100000&color=39FF14&background=00000000&center=false&vCenter=true&repeat=false&width=420&height=45&lines=Projects" alt="Projects" />
+
+| Project | What it is | Traction |
+|---|---|---|
+| **Fitelo** | Mobile app with AI recognition (80–93% accuracy) | 372 users, ~$300 revenue, marketed solo (80+ posts) |
+| **Draftly** | AI product for specialists, validated with 70 interviews | ~$200 revenue |
+| **Fresco** | Mobile app, launched Oct 2026 | ~80 users |
+| **EduPath** | AI university-admissions mentor | — |
+| **[CapLock](https://github.com/ulykbek11/caplock)** | Cross-platform sandbox for npm/pnpm install scripts | 54 ★ |
+| **[Repify](https://github.com/ulykbek11/Repify)** | AI exercise-technique feedback from camera or video | 14 exercises |
+
+**Highlights:** 1st place PhysTech Hackathon · nFactorial Incubator (3% acceptance) · speaker at tech events
 
 <br/><br/>
 
