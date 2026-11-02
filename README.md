@@ -23,21 +23,6 @@
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=1&pause=100000&color=39FF14&background=00000000&center=false&vCenter=true&repeat=false&width=420&height=45&lines=Projects" alt="Projects" />
-
-| Project | What it is | Traction |
-|---|---|---|
-| **Fitelo** | Mobile app with AI recognition (80–93% accuracy) | 372 users, ~$300 revenue, marketed solo (80+ posts) |
-| **Draftly** | AI product for specialists, validated with 70 interviews | ~$200 revenue |
-| **Fresco** | Mobile app, launched Oct 2026 | ~80 users |
-| **EduPath** | AI university-admissions mentor | — |
-| **[CapLock](https://github.com/ulykbek11/caplock)** | Cross-platform sandbox for npm/pnpm install scripts | 54 ★ |
-| **[Repify](https://github.com/ulykbek11/Repify)** | AI exercise-technique feedback from camera or video | 14 exercises |
-
-**Highlights:** 1st place PhysTech Hackathon · nFactorial Incubator (3% acceptance) · speaker at tech events
-
-<br/><br/>
-
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=1&pause=100000&color=39FF14&background=00000000&center=false&vCenter=true&repeat=false&width=420&height=45&lines=Tech+Stack" alt="Tech Stack" />
 
 <div align="center">
